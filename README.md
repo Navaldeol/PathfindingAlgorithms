@@ -1,2 +1,2 @@
 # PathfindingAlgorithms
-https://standing-sodium.glitch.me
+https://navaldeol.github.io/PathfindingAlgorithms
